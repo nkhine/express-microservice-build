@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "express-microservice-build@git+https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git",
+      "/home/khine/Sandboxes/Business/continentalclothing.com/node-blade-boiler-template/node_modules/express-microservice-profiler"
+    ]
+  ],
+  "_from": "git+https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git",
+  "_id": "express-microservice-build@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/express-microservice-build",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "express-microservice-build",
+    "raw": "express-microservice-build@git+https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git",
+    "rawSpec": "git+https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git",
+    "scope": null,
+    "spec": "https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git",
+    "type": "git"
+  },
+  "_requiredBy": [
+    "/express-microservice-profiler"
+  ],
+  "_resolved": "git+https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git#80f0c66aab44782baafed1b935be69393591664c",
+  "_shasum": "ea9b0db858bfa96789190e75b33e29e4f5784614",
+  "_shrinkwrap": null,
+  "_spec": "express-microservice-build@git+https://agiliumlabs.com/bitbucket/scm/cmp/express-microservice-build.git",
+  "_where": "/home/khine/Sandboxes/Business/continentalclothing.com/node-blade-boiler-template/node_modules/express-microservice-profiler",
+  "author": {
+    "email": "info@agiliumlabs.com",
+    "name": "Agilium Soft, David Martyrosian"
+  },
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-jscs": "~3.0.2",
+    "gulp-jshint": "~2.0.0",
+    "gulp-live-server": "~0.0.29",
+    "gulp-mocha": "~2.2.0",
+    "gulp-shell": "~0.5.2",
+    "gulp-util": "~3.0.7",
+    "jsdoc": "~3.4.0",
+    "require-dir": "~0.1.0",
+    "sfx": "~0.1.1",
+    "through2": "~2.0.1"
+  },
+  "description": "Gulp build tasks for an express microservice",
+  "devDependencies": {},
+  "gitHead": "f312f9c98081da531f1f728d7b8f3ff74c6a88ef",
+  "homepage": "http://midw.agiliumlabs.com:7990/projects/CMP/repos/express-microservice-build/browse",
+  "licenses": [
+    {
+      "licenses": [
+        {
+          "license": "(c) Copyright 2016 AgiliumSoft, LLC, all rights reserved"
+        }
+      ]
+    }
+  ],
+  "main": "gulpfile",
+  "name": "express-microservice-build",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "http://prozrachniy@midw.agiliumlabs.com:7990/scm/cmp/express-microservice-build.git"
+  },
+  "scripts": {},
+  "version": "0.0.3"
+}
